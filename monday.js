@@ -2,8 +2,8 @@
 // @name         Monday
 // @namespace    http://tampermonkey.net/
 // @version      2024-07-27
-// @description  try to take over the world!
-// @author       You
+// @description  add link to open ticket
+// @author       Zeev Glaizer
 // @match        https://wix.monday.com/boards/*/views/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=monday.com
 // @grant        none
